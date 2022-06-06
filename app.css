@@ -1,0 +1,19 @@
+.board {
+
+}
+
+.boardRow {
+    display: flex;
+
+}
+
+.tile {
+    display: flex;
+    height: 15px;
+    width: 15px;
+    border-style: outset;
+}
+
+.explored {
+    border-style: inset;
+}
